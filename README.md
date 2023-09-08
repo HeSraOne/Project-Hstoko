@@ -67,7 +67,7 @@ Opsional
 ```bash
 APP_NAME=Laravel
 APP_ENV=local
-APP_KEY=base64:QGRW4K7UVzS2M5HE2ZCLlUuiCtOIzRSfb38iWApkphE=
+APP_KEY=base64:CVwqXoEV7g3Gli5m58zvc3kiTwURmIxdijkJuok9dtk=
 APP_DEBUG=true
 APP_URL=http://example-app.test
 ```
