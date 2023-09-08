@@ -39,7 +39,7 @@ git clone https://github.com/sandinur157/tuturial-membuat-aplikasi-point-of-sale
 ```
 
 ### Download ZIP
-[Link](https://github.com/sandinur157/tuturial-membuat-aplikasi-point-of-sales/archive/refs/heads/main.zip)
+[Link](https://github.com/sandinur157/Project-Hstoko/archive/refs/heads/main.zip)
 
 ### Setup Aplikasi
 Jalankan perintah 
